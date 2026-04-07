@@ -1,2 +1,3 @@
 # WCPSSHACKS
-hacks and proxys for the fucking lightspeed system from wcpss  THEY ARE BITCHES FOR THIS THEY EVEN BLOCK PICS
+Hacks and proxys for Lightspeed Filter Agent in Wake County Public School System, 16th most popular school district in the United States and most popular In North Carolina, made by 2 idiots in the county with a passion for proxies and exploits
+As of updating this, there have been student and parent complaints about the new filtering system (lightspeed filter agent was installed in February 2026) and this will most likely get the county to switch back to cisco umbrella (the filtering system prior to lightspeed) or a new filter system, even if they switch to something weaker, we will still keep this repository up for other students who like proxies.
